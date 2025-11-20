@@ -1,0 +1,33 @@
+﻿<Window x:Class="StackPanel_Learning.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StackPanel_Learning"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="450">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <!-- Orientation 속성으로 수직, 수평을 결정 (기본 값은 Vertical) -->
+        <StackPanel Orientation="Vertical" Grid.Column="0">
+            <Button Content="One" HorizontalAlignment="Left"></Button>
+            <Button Content="Two" HorizontalAlignment="Center"></Button>
+            <Button Content="Three" HorizontalAlignment="Right"></Button>
+            <Button Content="Four" HorizontalAlignment="Stretch"></Button>
+            <Button Content="Five" HorizontalAlignment="Left"></Button>
+            <Button Content="Six" HorizontalAlignment="Center"></Button>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" Grid.Column="1">
+            <Button Content="One" VerticalAlignment="Top"></Button>
+            <Button Content="Two" VerticalAlignment="Center"></Button>
+            <Button Content="Three" VerticalAlignment="Bottom"></Button>
+            <Button Content="Four" VerticalAlignment="Stretch"></Button>
+            <Button Content="Five" VerticalAlignment="Top"></Button>
+            <Button Content="Six" VerticalAlignment="Center"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

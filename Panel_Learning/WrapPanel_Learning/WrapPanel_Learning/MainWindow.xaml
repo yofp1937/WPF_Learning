@@ -1,0 +1,39 @@
+﻿<Window x:Class="WrapPanel_Learning.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WrapPanel_Learning"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="200">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.Row="0">
+            <Button Content="One"></Button>
+            <Button Content="Two"></Button>
+            <Button Content="Three"></Button>
+            <Button Content="Four" Height="40"></Button>
+            <Button Content="Five"></Button>
+            <Button Content="Six" Height="60"></Button>
+            <Button Content="Seven"></Button>
+            <Button Content="Eight" Width="80"></Button>
+            <Button Content="Nine"></Button>
+            <Button Content="Ten"></Button>
+        </WrapPanel>
+        <WrapPanel Orientation="Vertical" Grid.Row="1">
+            <Button Content="One"></Button>
+            <Button Content="Two"></Button>
+            <Button Content="Three"></Button>
+            <Button Content="Four"></Button>
+            <Button Content="Five" Width="50"></Button>
+            <Button Content="Six" Width="25" Height="40"></Button>
+            <Button Content="Seven"></Button>
+            <Button Content="Eight" Width="80"></Button>
+            <Button Content="Nine"></Button>
+            <Button Content="Ten"></Button>
+        </WrapPanel>
+    </Grid>
+</Window>

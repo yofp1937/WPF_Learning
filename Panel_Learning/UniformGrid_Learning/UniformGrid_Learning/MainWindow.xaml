@@ -1,0 +1,18 @@
+﻿<Window x:Class="UniformGrid_Learning.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UniformGrid_Learning"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="500">
+    <UniformGrid Columns="2" Rows="3">
+        <Button Content="One"></Button>
+        <Button Content="Two"></Button>
+        <Button Content="Three"></Button>
+        <Button Content="Four"></Button>
+        <Button Content="Five"></Button>
+        <Button Content="Six"></Button>
+        <Button Content="Seven"></Button>
+    </UniformGrid>
+</Window>

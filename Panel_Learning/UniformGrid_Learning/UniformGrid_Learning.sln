@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniformGrid_Learning", "UniformGrid_Learning\UniformGrid_Learning.csproj", "{0BDC07F4-884C-4BBE-B628-2F642A6ACBE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDC07F4-884C-4BBE-B628-2F642A6ACBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDC07F4-884C-4BBE-B628-2F642A6ACBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDC07F4-884C-4BBE-B628-2F642A6ACBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDC07F4-884C-4BBE-B628-2F642A6ACBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A7F5F69-04A2-451F-BE87-0D9E40241B9E}
+	EndGlobalSection
+EndGlobal

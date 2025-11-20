@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\WPF\\Learning Project\\WrapPanel_Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B480116C-E4D2-49C0-B65C-3687A9E90606}|WrapPanel_Learning\\WrapPanel_Learning.csproj|d:\\project\\wpf\\learning project\\wrappanel_learning\\wrappanel_learning\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B480116C-E4D2-49C0-B65C-3687A9E90606}|WrapPanel_Learning\\WrapPanel_Learning.csproj|solutionrelative:wrappanel_learning\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B480116C-E4D2-49C0-B65C-3687A9E90606}|WrapPanel_Learning\\WrapPanel_Learning.csproj|d:\\project\\wpf\\learning project\\wrappanel_learning\\wrappanel_learning\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B480116C-E4D2-49C0-B65C-3687A9E90606}|WrapPanel_Learning\\WrapPanel_Learning.csproj|solutionrelative:wrappanel_learning\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B480116C-E4D2-49C0-B65C-3687A9E90606}|WrapPanel_Learning\\WrapPanel_Learning.csproj|d:\\project\\wpf\\learning project\\wrappanel_learning\\wrappanel_learning\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B480116C-E4D2-49C0-B65C-3687A9E90606}|WrapPanel_Learning\\WrapPanel_Learning.csproj|solutionrelative:wrappanel_learning\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Project\\WPF\\Learning Project\\WrapPanel_Learning\\WrapPanel_Learning\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WrapPanel_Learning\\MainWindow.xaml",
+              "ToolTip": "D:\\Project\\WPF\\Learning Project\\WrapPanel_Learning\\WrapPanel_Learning\\MainWindow.xaml",
+              "RelativeToolTip": "WrapPanel_Learning\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-18T17:39:44.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Project\\WPF\\Learning Project\\WrapPanel_Learning\\WrapPanel_Learning\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WrapPanel_Learning\\MainWindow.xaml",
+              "ToolTip": "D:\\Project\\WPF\\Learning Project\\WrapPanel_Learning\\WrapPanel_Learning\\MainWindow.xaml",
+              "RelativeToolTip": "WrapPanel_Learning\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-18T17:39:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\WPF\\Learning Project\\WrapPanel_Learning\\WrapPanel_Learning\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WrapPanel_Learning\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Project\\WPF\\Learning Project\\WrapPanel_Learning\\WrapPanel_Learning\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WrapPanel_Learning\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:39:27.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
